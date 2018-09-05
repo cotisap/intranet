@@ -1,0 +1,481 @@
+[15-Jun-2016 17:20:12 UTC] PHP Warning:  include(mysqlconn.php): failed to open stream: No such file or directory in /hostingDataA1/idited/public_html/folium/includes/genadmin/pList.php on line 3
+[15-Jun-2016 17:20:12 UTC] PHP Warning:  include(): Failed opening 'mysqlconn.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /hostingDataA1/idited/public_html/folium/includes/genadmin/pList.php on line 3
+[22-Jun-2016 17:27:09 UTC] PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'KCNOT_PR'. Cannot insert duplicate key in object 'dbo.@CNOT'. (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 20
+[22-Jun-2016 17:27:09 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 20
+[22-Jun-2016 17:27:09 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 20
+[22-Jun-2016 17:27:09 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 24
+[22-Jun-2016 17:27:56 UTC] PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'KCNOT_PR'. Cannot insert duplicate key in object 'dbo.@CNOT'. (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 20
+[22-Jun-2016 17:27:56 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 20
+[22-Jun-2016 17:27:56 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 20
+[22-Jun-2016 17:27:56 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 24
+[22-Jun-2016 17:28:57 UTC] PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'KCNOT_PR'. Cannot insert duplicate key in object 'dbo.@CNOT'. (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 20
+[22-Jun-2016 17:28:57 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 20
+[22-Jun-2016 17:28:57 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 20
+[22-Jun-2016 17:28:57 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 24
+[22-Jun-2016 17:29:01 UTC] PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'KCNOT_PR'. Cannot insert duplicate key in object 'dbo.@CNOT'. (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 20
+[22-Jun-2016 17:29:01 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 20
+[22-Jun-2016 17:29:01 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 20
+[22-Jun-2016 17:29:01 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 24
+[22-Jun-2016 17:29:02 UTC] PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'KCNOT_PR'. Cannot insert duplicate key in object 'dbo.@CNOT'. (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 20
+[22-Jun-2016 17:29:02 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 20
+[22-Jun-2016 17:29:02 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 20
+[22-Jun-2016 17:29:02 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 24
+[22-Jun-2016 17:29:02 UTC] PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'KCNOT_PR'. Cannot insert duplicate key in object 'dbo.@CNOT'. (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 20
+[22-Jun-2016 17:29:02 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 20
+[22-Jun-2016 17:29:02 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 20
+[22-Jun-2016 17:29:02 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 24
+[22-Jun-2016 17:29:03 UTC] PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'KCNOT_PR'. Cannot insert duplicate key in object 'dbo.@CNOT'. (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 20
+[22-Jun-2016 17:29:03 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 20
+[22-Jun-2016 17:29:03 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 20
+[22-Jun-2016 17:29:03 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 24
+[22-Jun-2016 17:29:28 UTC] PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'KCNOT_PR'. Cannot insert duplicate key in object 'dbo.@CNOT'. (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 20
+[22-Jun-2016 17:29:28 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 20
+[22-Jun-2016 17:29:28 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 20
+[22-Jun-2016 17:29:28 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 24
+[22-Jun-2016 17:29:34 UTC] PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'KCNOT_PR'. Cannot insert duplicate key in object 'dbo.@CNOT'. (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 20
+[22-Jun-2016 17:29:34 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 20
+[22-Jun-2016 17:29:34 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 20
+[22-Jun-2016 17:29:34 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 24
+[22-Jun-2016 17:31:16 UTC] PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'KCNOT_PR'. Cannot insert duplicate key in object 'dbo.@CNOT'. (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 20
+[22-Jun-2016 17:31:16 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 20
+[22-Jun-2016 17:31:16 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 20
+[22-Jun-2016 17:31:16 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 24
+[22-Jun-2016 17:34:17 UTC] PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'KCNOT_PR'. Cannot insert duplicate key in object 'dbo.@CNOT'. (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 20
+[22-Jun-2016 17:34:17 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 20
+[22-Jun-2016 17:34:17 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 20
+[22-Jun-2016 17:34:17 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 23
+[25-Jul-2016 14:11:10 UTC] PHP Warning:  mssql_query(): message: Cannot insert the value NULL into column 'Name', table 'SBO_SURESTE.dbo.@DISCOUNT'; column does not allow nulls. INSERT fails. (severity 16) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:11:10 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:11:10 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:11:10 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 22
+[25-Jul-2016 14:11:19 UTC] PHP Warning:  mssql_query(): message: Cannot insert the value NULL into column 'Name', table 'SBO_SURESTE.dbo.@DISCOUNT'; column does not allow nulls. INSERT fails. (severity 16) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:11:19 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:11:19 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:11:19 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 22
+[25-Jul-2016 14:15:09 UTC] PHP Warning:  mssql_query(): message: Cannot insert duplicate key row in object 'dbo.@DISCOUNT' with unique index 'KDISCOUNT_NAME'. (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:15:09 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:15:09 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:15:09 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 22
+[25-Jul-2016 14:15:18 UTC] PHP Warning:  mssql_query(): message: Cannot insert duplicate key row in object 'dbo.@DISCOUNT' with unique index 'KDISCOUNT_NAME'. (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:15:18 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:15:18 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:15:18 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 22
+[25-Jul-2016 14:15:31 UTC] PHP Warning:  mssql_query(): message: Cannot insert duplicate key row in object 'dbo.@DISCOUNT' with unique index 'KDISCOUNT_NAME'. (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:15:31 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:15:31 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:15:31 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 22
+[25-Jul-2016 14:16:01 UTC] PHP Warning:  mssql_query(): message: Cannot insert duplicate key row in object 'dbo.@DISCOUNT' with unique index 'KDISCOUNT_NAME'. (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:16:01 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:16:01 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:16:01 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 22
+[25-Jul-2016 14:16:09 UTC] PHP Warning:  mssql_query(): message: Cannot insert duplicate key row in object 'dbo.@DISCOUNT' with unique index 'KDISCOUNT_NAME'. (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:16:09 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:16:09 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:16:09 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 22
+[25-Jul-2016 14:16:19 UTC] PHP Warning:  mssql_query(): message: Cannot insert duplicate key row in object 'dbo.@DISCOUNT' with unique index 'KDISCOUNT_NAME'. (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:16:19 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:16:19 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:16:19 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 22
+[25-Jul-2016 14:18:09 UTC] PHP Warning:  mssql_query(): message: Cannot insert duplicate key row in object 'dbo.@DISCOUNT' with unique index 'KDISCOUNT_NAME'. (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:18:09 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:18:09 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:18:09 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 22
+[25-Jul-2016 14:18:14 UTC] PHP Warning:  mssql_query(): message: Cannot insert duplicate key row in object 'dbo.@DISCOUNT' with unique index 'KDISCOUNT_NAME'. (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:18:14 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:18:14 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:18:14 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 22
+[25-Jul-2016 14:18:17 UTC] PHP Warning:  mssql_query(): message: Cannot insert duplicate key row in object 'dbo.@DISCOUNT' with unique index 'KDISCOUNT_NAME'. (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:18:17 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:18:17 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:18:17 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 22
+[25-Jul-2016 14:18:50 UTC] PHP Warning:  mssql_query(): message: Cannot insert duplicate key row in object 'dbo.@DISCOUNT' with unique index 'KDISCOUNT_NAME'. (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:18:50 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:18:50 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:18:50 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 22
+[25-Jul-2016 14:20:04 UTC] PHP Warning:  mssql_query(): message: Cannot insert duplicate key row in object 'dbo.@DISCOUNT' with unique index 'KDISCOUNT_NAME'. (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:20:04 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:20:04 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:20:04 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 22
+[25-Jul-2016 14:21:26 UTC] PHP Warning:  mssql_query(): message: Cannot insert duplicate key row in object 'dbo.@DISCOUNT' with unique index 'KDISCOUNT_NAME'. (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:21:26 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:21:26 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:21:26 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 22
+[25-Jul-2016 14:23:16 UTC] PHP Warning:  mssql_query(): message: Cannot insert duplicate key row in object 'dbo.@DISCOUNT' with unique index 'KDISCOUNT_NAME'. (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:23:16 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:23:16 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:23:16 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 22
+[25-Jul-2016 14:24:32 UTC] PHP Warning:  mssql_query(): message: Cannot insert duplicate key row in object 'dbo.@DISCOUNT' with unique index 'KDISCOUNT_NAME'. (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:24:32 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:24:32 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:24:32 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 22
+[25-Jul-2016 14:24:46 UTC] PHP Warning:  mssql_query(): message: Conversion failed when converting the varchar value '18.5' to data type int. (severity 16) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:24:46 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:24:46 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:24:46 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 22
+[25-Jul-2016 14:33:11 UTC] PHP Warning:  mssql_query(): message: Cannot insert duplicate key row in object 'dbo.@DISCOUNT' with unique index 'KDISCOUNT_NAME'. (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:33:11 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:33:11 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:33:11 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 22
+[25-Jul-2016 14:33:35 UTC] PHP Warning:  mssql_query(): message: Cannot insert duplicate key row in object 'dbo.@DISCOUNT' with unique index 'KDISCOUNT_NAME'. (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:33:35 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:33:35 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:33:35 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 22
+[25-Jul-2016 14:33:40 UTC] PHP Warning:  mssql_query(): message: Cannot insert duplicate key row in object 'dbo.@DISCOUNT' with unique index 'KDISCOUNT_NAME'. (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:33:40 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:33:40 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:33:40 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 22
+[25-Jul-2016 14:33:45 UTC] PHP Warning:  mssql_query(): message: Cannot insert duplicate key row in object 'dbo.@DISCOUNT' with unique index 'KDISCOUNT_NAME'. (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:33:45 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:33:45 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:33:45 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 22
+[25-Jul-2016 14:34:21 UTC] PHP Warning:  mssql_query(): message: Cannot insert duplicate key row in object 'dbo.@DISCOUNT' with unique index 'KDISCOUNT_NAME'. (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:34:21 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:34:21 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:34:21 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 22
+[25-Jul-2016 14:34:29 UTC] PHP Warning:  mssql_query(): message: Cannot insert duplicate key row in object 'dbo.@DISCOUNT' with unique index 'KDISCOUNT_NAME'. (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:34:29 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:34:29 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:34:29 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 22
+[25-Jul-2016 14:34:34 UTC] PHP Warning:  mssql_query(): message: Conversion failed when converting the varchar value '18.5' to data type int. (severity 16) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:34:34 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:34:34 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:34:34 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 22
+[25-Jul-2016 14:35:57 UTC] PHP Warning:  mssql_query(): message: Cannot insert duplicate key row in object 'dbo.@DISCOUNT' with unique index 'KDISCOUNT_NAME'. (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:35:57 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:35:57 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:35:57 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 22
+[25-Jul-2016 14:36:49 UTC] PHP Warning:  mssql_query(): message: Cannot insert duplicate key row in object 'dbo.@DISCOUNT' with unique index 'KDISCOUNT_NAME'. (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:36:49 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:36:49 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:36:49 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 22
+[25-Jul-2016 14:37:12 UTC] PHP Warning:  mssql_query(): message: Cannot insert duplicate key row in object 'dbo.@DISCOUNT' with unique index 'KDISCOUNT_NAME'. (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:37:12 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:37:12 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:37:12 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 22
+[25-Jul-2016 14:38:32 UTC] PHP Warning:  mssql_query(): message: Cannot insert duplicate key row in object 'dbo.@DISCOUNT' with unique index 'KDISCOUNT_NAME'. (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:38:32 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:38:32 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:38:32 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 22
+[25-Jul-2016 14:38:38 UTC] PHP Warning:  mssql_query(): message: Cannot insert duplicate key row in object 'dbo.@DISCOUNT' with unique index 'KDISCOUNT_NAME'. (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:38:38 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:38:38 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:38:38 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 22
+[25-Jul-2016 14:38:42 UTC] PHP Warning:  mssql_query(): message: Cannot insert duplicate key row in object 'dbo.@DISCOUNT' with unique index 'KDISCOUNT_NAME'. (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:38:42 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:38:42 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:38:42 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 22
+[25-Jul-2016 14:40:18 UTC] PHP Warning:  mssql_query(): message: Cannot insert duplicate key row in object 'dbo.@DISCOUNT' with unique index 'KDISCOUNT_NAME'. (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:40:18 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:40:18 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:40:18 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 22
+[25-Jul-2016 14:40:35 UTC] PHP Warning:  mssql_query(): message: Cannot insert duplicate key row in object 'dbo.@DISCOUNT' with unique index 'KDISCOUNT_NAME'. (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:40:35 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:40:35 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:40:35 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 22
+[25-Jul-2016 14:40:55 UTC] PHP Warning:  mssql_query(): message: Cannot insert duplicate key row in object 'dbo.@DISCOUNT' with unique index 'KDISCOUNT_NAME'. (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:40:55 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:40:55 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:40:55 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 22
+[25-Jul-2016 14:43:20 UTC] PHP Warning:  mssql_query(): message: Cannot insert duplicate key row in object 'dbo.@DISCOUNT' with unique index 'KDISCOUNT_NAME'. (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:43:20 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:43:20 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:43:20 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 22
+[25-Jul-2016 14:43:40 UTC] PHP Warning:  mssql_query(): message: Cannot insert duplicate key row in object 'dbo.@DISCOUNT' with unique index 'KDISCOUNT_NAME'. (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:43:40 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:43:40 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:43:40 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 22
+[25-Jul-2016 14:45:54 UTC] PHP Warning:  mssql_query(): message: Conversion failed when converting the varchar value '18.5' to data type int. (severity 16) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:45:54 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:45:54 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:45:54 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 22
+[25-Jul-2016 14:46:10 UTC] PHP Warning:  mssql_query(): message: Conversion failed when converting the varchar value '18.5' to data type int. (severity 16) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:46:10 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:46:10 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[25-Jul-2016 14:46:10 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 22
+[17-Aug-2016 21:50:01 UTC] PHP Fatal error:  Cannot use [] for reading in /hostingDataA1/idited/public_html/folium/includes/genadmin/emails.php on line 8
+[17-Aug-2016 21:51:08 UTC] PHP Fatal error:  Cannot use [] for reading in /hostingDataA1/idited/public_html/folium/includes/genadmin/emails.php on line 8
+[26-Oct-2016 18:13:35 UTC] PHP Warning:  mssql_query(): message: Incorrect syntax near the keyword 'WHERE'. (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empAdmin.php on line 8
+[26-Oct-2016 18:13:35 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empAdmin.php on line 8
+[26-Oct-2016 18:13:35 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/empAdmin.php on line 8
+[26-Oct-2016 18:13:35 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/empAdmin.php on line 11
+[26-Oct-2016 18:16:11 UTC] PHP Warning:  mssql_query(): message: Incorrect syntax near the keyword 'WHERE'. (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empAdmin.php on line 8
+[26-Oct-2016 18:16:11 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empAdmin.php on line 8
+[26-Oct-2016 18:16:11 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/empAdmin.php on line 8
+[26-Oct-2016 18:16:11 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/empAdmin.php on line 11
+[26-Oct-2016 18:16:19 UTC] PHP Warning:  mssql_query(): message: Incorrect syntax near the keyword 'WHERE'. (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empAdmin.php on line 8
+[26-Oct-2016 18:16:19 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empAdmin.php on line 8
+[26-Oct-2016 18:16:19 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/empAdmin.php on line 8
+[26-Oct-2016 18:16:19 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/empAdmin.php on line 11
+[26-Oct-2016 18:16:20 UTC] PHP Warning:  mssql_query(): message: Incorrect syntax near the keyword 'WHERE'. (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empAdmin.php on line 8
+[26-Oct-2016 18:16:20 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empAdmin.php on line 8
+[26-Oct-2016 18:16:20 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/empAdmin.php on line 8
+[26-Oct-2016 18:16:20 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/empAdmin.php on line 11
+[26-Oct-2016 18:18:49 UTC] PHP Warning:  mssql_query(): message: Incorrect syntax near the keyword 'WHERE'. (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empAdmin.php on line 8
+[26-Oct-2016 18:18:49 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empAdmin.php on line 8
+[26-Oct-2016 18:18:49 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/empAdmin.php on line 8
+[26-Oct-2016 18:18:49 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/empAdmin.php on line 11
+[26-Oct-2016 18:19:02 UTC] PHP Warning:  mssql_query(): message: Incorrect syntax near the keyword 'WHERE'. (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empAdmin.php on line 8
+[26-Oct-2016 18:19:02 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empAdmin.php on line 8
+[26-Oct-2016 18:19:02 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/empAdmin.php on line 8
+[26-Oct-2016 18:19:02 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/empAdmin.php on line 11
+[26-Oct-2016 18:19:03 UTC] PHP Warning:  mssql_query(): message: Incorrect syntax near the keyword 'WHERE'. (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empAdmin.php on line 8
+[26-Oct-2016 18:19:03 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empAdmin.php on line 8
+[26-Oct-2016 18:19:03 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/empAdmin.php on line 8
+[26-Oct-2016 18:19:03 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/empAdmin.php on line 11
+[26-Oct-2016 18:19:04 UTC] PHP Warning:  mssql_query(): message: Incorrect syntax near the keyword 'WHERE'. (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empAdmin.php on line 8
+[26-Oct-2016 18:19:04 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empAdmin.php on line 8
+[26-Oct-2016 18:19:04 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/empAdmin.php on line 8
+[26-Oct-2016 18:19:04 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/empAdmin.php on line 11
+[01-Nov-2016 17:41:54 UTC] PHP Warning:  mssql_query(): message: Incorrect syntax near the keyword 'WHERE'. (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 8
+[01-Nov-2016 17:41:54 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 8
+[01-Nov-2016 17:41:54 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 8
+[01-Nov-2016 17:41:54 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 11
+[01-Nov-2016 17:43:17 UTC] PHP Warning:  mssql_query(): message: Incorrect syntax near the keyword 'WHERE'. (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 8
+[01-Nov-2016 17:43:17 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 8
+[01-Nov-2016 17:43:17 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 8
+[01-Nov-2016 17:43:17 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 11
+[01-Nov-2016 17:44:59 UTC] PHP Warning:  mssql_query(): message: Incorrect syntax near the keyword 'WHERE'. (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 8
+[01-Nov-2016 17:44:59 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 8
+[01-Nov-2016 17:44:59 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 8
+[01-Nov-2016 17:44:59 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 11
+[01-Nov-2016 17:46:00 UTC] PHP Warning:  mssql_query(): message: Incorrect syntax near the keyword 'WHERE'. (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 8
+[01-Nov-2016 17:46:00 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 8
+[01-Nov-2016 17:46:00 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 8
+[01-Nov-2016 17:46:00 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 11
+[01-Nov-2016 17:46:22 UTC] PHP Warning:  mssql_query(): message: Incorrect syntax near the keyword 'WHERE'. (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 8
+[01-Nov-2016 17:46:22 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 8
+[01-Nov-2016 17:46:22 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 8
+[01-Nov-2016 17:46:22 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 11
+[01-Nov-2016 17:47:19 UTC] PHP Warning:  mssql_query(): message: Incorrect syntax near '55121091'. (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 8
+[01-Nov-2016 17:47:19 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 8
+[01-Nov-2016 17:47:19 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 8
+[01-Nov-2016 17:47:19 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 11
+[05-Jan-2017 00:28:39 UTC] PHP Warning:  mssql_query(): message: Incorrect syntax near ','. (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[05-Jan-2017 00:28:39 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[05-Jan-2017 00:28:39 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[05-Jan-2017 00:28:39 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 27
+[06-Jan-2017 19:23:58 UTC] PHP Warning:  mssql_query(): message: Incorrect syntax near ','. (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[06-Jan-2017 19:23:58 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[06-Jan-2017 19:23:58 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[06-Jan-2017 19:23:58 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 27
+[06-Jan-2017 19:24:51 UTC] PHP Warning:  mssql_query(): message: Incorrect syntax near ','. (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[06-Jan-2017 19:24:51 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[06-Jan-2017 19:24:51 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[06-Jan-2017 19:24:51 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 27
+[06-Jan-2017 19:24:55 UTC] PHP Warning:  mssql_query(): message: Incorrect syntax near ','. (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[06-Jan-2017 19:24:55 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[06-Jan-2017 19:24:55 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[06-Jan-2017 19:24:55 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 27
+[06-Jan-2017 19:24:56 UTC] PHP Warning:  mssql_query(): message: Incorrect syntax near ','. (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[06-Jan-2017 19:24:56 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[06-Jan-2017 19:24:56 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[06-Jan-2017 19:24:56 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 27
+[06-Jan-2017 19:24:56 UTC] PHP Warning:  mssql_query(): message: Incorrect syntax near ','. (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[06-Jan-2017 19:24:56 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[06-Jan-2017 19:24:56 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[06-Jan-2017 19:24:56 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 27
+[06-Jan-2017 19:25:08 UTC] PHP Warning:  mssql_query(): message: Incorrect syntax near ','. (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[06-Jan-2017 19:25:08 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[06-Jan-2017 19:25:08 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[06-Jan-2017 19:25:08 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 27
+[06-Jan-2017 19:25:11 UTC] PHP Warning:  mssql_query(): message: Incorrect syntax near ','. (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[06-Jan-2017 19:25:11 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[06-Jan-2017 19:25:11 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[06-Jan-2017 19:25:11 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 27
+[10-Feb-2017 01:12:07 UTC] PHP Warning:  mssql_query(): message: Incorrect syntax near ','. (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[10-Feb-2017 01:12:07 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[10-Feb-2017 01:12:07 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[10-Feb-2017 01:12:07 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 27
+[10-Feb-2017 01:12:09 UTC] PHP Warning:  mssql_query(): message: Incorrect syntax near ','. (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[10-Feb-2017 01:12:09 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[10-Feb-2017 01:12:09 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[10-Feb-2017 01:12:09 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 27
+[10-Feb-2017 01:12:10 UTC] PHP Warning:  mssql_query(): message: Incorrect syntax near ','. (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[10-Feb-2017 01:12:10 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[10-Feb-2017 01:12:10 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[10-Feb-2017 01:12:10 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 27
+[27-Feb-2017 15:27:12 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 138.94.140.25:1433 in /hostingDataA1/idited/public_html/folium/includes/mssqlconn.php on line 44
+[16-May-2017 17:59:12 UTC] PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'KDISCOUNT_PR'. Cannot insert duplicate key in object 'dbo.@DISCOUNT'. (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[16-May-2017 17:59:12 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[16-May-2017 17:59:12 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[16-May-2017 17:59:12 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 22
+[16-May-2017 18:00:54 UTC] PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'KDISCOUNT_PR'. Cannot insert duplicate key in object 'dbo.@DISCOUNT'. (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[16-May-2017 18:00:54 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[16-May-2017 18:00:54 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[16-May-2017 18:00:54 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 22
+[03-Jul-2017 16:24:15 UTC] PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'KDISCOUNT_PR'. Cannot insert duplicate key in object 'dbo.@DISCOUNT'. The duplicate key value is (10). (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[03-Jul-2017 16:24:15 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[03-Jul-2017 16:24:15 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[03-Jul-2017 16:24:15 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 22
+[03-Jul-2017 16:24:56 UTC] PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'KDISCOUNT_PR'. Cannot insert duplicate key in object 'dbo.@DISCOUNT'. The duplicate key value is (10). (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[03-Jul-2017 16:24:56 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[03-Jul-2017 16:24:56 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[03-Jul-2017 16:24:56 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 22
+[04-Jul-2017 16:27:03 UTC] PHP Warning:  mssql_query(): message: Incorrect syntax near ','. (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[04-Jul-2017 16:27:03 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[04-Jul-2017 16:27:03 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[04-Jul-2017 16:27:03 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 27
+[19-Jul-2017 20:08:17 UTC] PHP Warning:  mssql_query(): message: Incorrect syntax near ','. (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[19-Jul-2017 20:08:17 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[19-Jul-2017 20:08:17 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[19-Jul-2017 20:08:17 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 27
+[19-Jul-2017 20:54:09 UTC] PHP Warning:  mssql_query(): message: Incorrect syntax near ','. (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[19-Jul-2017 20:54:09 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[19-Jul-2017 20:54:09 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[19-Jul-2017 20:54:09 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 27
+[19-Jul-2017 20:54:28 UTC] PHP Warning:  mssql_query(): message: Incorrect syntax near ','. (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[19-Jul-2017 20:54:28 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[19-Jul-2017 20:54:28 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[19-Jul-2017 20:54:28 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 27
+[19-Jul-2017 20:54:33 UTC] PHP Warning:  mssql_query(): message: Incorrect syntax near ','. (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[19-Jul-2017 20:54:33 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[19-Jul-2017 20:54:33 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[19-Jul-2017 20:54:33 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 27
+[19-Jul-2017 20:55:32 UTC] PHP Warning:  mssql_query(): message: Incorrect syntax near ','. (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[19-Jul-2017 20:55:32 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[19-Jul-2017 20:55:32 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[19-Jul-2017 20:55:32 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 27
+[19-Jul-2017 20:55:54 UTC] PHP Warning:  mssql_query(): message: Incorrect syntax near ','. (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[19-Jul-2017 20:55:54 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[19-Jul-2017 20:55:54 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[19-Jul-2017 20:55:54 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 27
+[19-Jul-2017 20:56:11 UTC] PHP Warning:  mssql_query(): message: Incorrect syntax near ','. (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[19-Jul-2017 20:56:11 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[19-Jul-2017 20:56:11 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[19-Jul-2017 20:56:11 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 27
+[19-Jul-2017 20:56:43 UTC] PHP Warning:  mssql_query(): message: Incorrect syntax near ','. (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[19-Jul-2017 20:56:43 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[19-Jul-2017 20:56:43 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[19-Jul-2017 20:56:43 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 27
+[19-Jul-2017 20:56:48 UTC] PHP Warning:  mssql_query(): message: Incorrect syntax near ','. (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[19-Jul-2017 20:56:48 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[19-Jul-2017 20:56:48 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[19-Jul-2017 20:56:48 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 27
+[19-Jul-2017 20:59:00 UTC] PHP Warning:  mssql_query(): message: Incorrect syntax near ','. (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[19-Jul-2017 20:59:00 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[19-Jul-2017 20:59:00 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[19-Jul-2017 20:59:00 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 27
+[19-Jul-2017 20:59:48 UTC] PHP Warning:  mssql_query(): message: Incorrect syntax near ','. (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[19-Jul-2017 20:59:48 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[19-Jul-2017 20:59:48 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[19-Jul-2017 20:59:48 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 27
+[19-Jul-2017 21:02:09 UTC] PHP Warning:  mssql_query(): message: Incorrect syntax near ','. (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[19-Jul-2017 21:02:09 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[19-Jul-2017 21:02:09 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[19-Jul-2017 21:02:09 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 27
+[19-Jul-2017 21:05:08 UTC] PHP Warning:  mssql_query(): message: Incorrect syntax near ','. (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[19-Jul-2017 21:05:08 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[19-Jul-2017 21:05:08 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[19-Jul-2017 21:05:08 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 27
+[19-Jul-2017 21:08:24 UTC] PHP Warning:  mssql_query(): message: Incorrect syntax near ','. (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[19-Jul-2017 21:08:24 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[19-Jul-2017 21:08:24 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[19-Jul-2017 21:08:24 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 27
+[19-Jul-2017 21:08:33 UTC] PHP Warning:  mssql_query(): message: Incorrect syntax near ','. (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[19-Jul-2017 21:08:33 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[19-Jul-2017 21:08:33 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[19-Jul-2017 21:08:33 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 27
+[19-Jul-2017 23:13:37 UTC] PHP Warning:  mssql_query(): message: Incorrect syntax near ','. (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[19-Jul-2017 23:13:37 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[19-Jul-2017 23:13:37 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[19-Jul-2017 23:13:37 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 27
+[19-Jul-2017 23:29:24 UTC] PHP Warning:  mssql_query(): message: Incorrect syntax near ','. (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[19-Jul-2017 23:29:24 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[19-Jul-2017 23:29:24 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 24
+[19-Jul-2017 23:29:24 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/empUpdate.php on line 27
+[26-Jul-2017 03:02:00 UTC] PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'KDISCOUNT_PR'. Cannot insert duplicate key in object 'dbo.@DISCOUNT'. The duplicate key value is (10). (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[26-Jul-2017 03:02:00 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[26-Jul-2017 03:02:00 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[26-Jul-2017 03:02:00 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 22
+[26-Jul-2017 03:05:54 UTC] PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'KDISCOUNT_PR'. Cannot insert duplicate key in object 'dbo.@DISCOUNT'. The duplicate key value is (10). (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[26-Jul-2017 03:05:54 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[26-Jul-2017 03:05:54 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[26-Jul-2017 03:05:54 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 22
+[26-Jul-2017 03:07:06 UTC] PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'KDISCOUNT_PR'. Cannot insert duplicate key in object 'dbo.@DISCOUNT'. The duplicate key value is (10). (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[26-Jul-2017 03:07:06 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[26-Jul-2017 03:07:06 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[26-Jul-2017 03:07:06 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 22
+[08-Aug-2017 17:04:29 UTC] PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'KCNOT_PR'. Cannot insert duplicate key in object 'dbo.@CNOT'. The duplicate key value is (10). (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 20
+[08-Aug-2017 17:04:29 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 20
+[08-Aug-2017 17:04:29 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 20
+[08-Aug-2017 17:04:29 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 23
+[08-Aug-2017 17:22:31 UTC] PHP Warning:  mssql_query(): message: Cannot insert duplicate key row in object 'dbo.@CNOT' with unique index 'KCNOT_NAME'. The duplicate key value is (Disponible). (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 20
+[08-Aug-2017 17:22:31 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 20
+[08-Aug-2017 17:22:31 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 20
+[08-Aug-2017 17:22:31 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 23
+[08-Aug-2017 17:23:33 UTC] PHP Warning:  mssql_query(): message: Cannot insert duplicate key row in object 'dbo.@CNOT' with unique index 'KCNOT_NAME'. The duplicate key value is (Disponible). (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 20
+[08-Aug-2017 17:23:33 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 20
+[08-Aug-2017 17:23:33 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 20
+[08-Aug-2017 17:23:33 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/cNotes.php on line 23
+[14-Aug-2017 14:58:07 UTC] PHP Warning:  mssql_query(): message: Cannot insert duplicate key row in object 'dbo.@DISCOUNT' with unique index 'KDISCOUNT_NAME'. The duplicate key value is (36.3). (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[14-Aug-2017 14:58:07 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[14-Aug-2017 14:58:07 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 19
+[14-Aug-2017 14:58:07 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA1/idited/public_html/folium/includes/genadmin/discounts.php on line 22
+[16-Oct-2017 01:09:49 UTC] PHP Warning:  mssql_query(): message: The UPDATE permission was denied on the object '@CNOT', database 'SBO_Pruebas', schema 'dbo'. (severity 14) in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/cNotes.php on line 20
+[16-Oct-2017 01:09:49 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/cNotes.php on line 20
+[16-Oct-2017 01:09:49 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/cNotes.php on line 20
+[16-Oct-2017 01:09:49 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/cNotes.php on line 23
+[16-Oct-2017 01:10:06 UTC] PHP Warning:  mssql_query(): message: The UPDATE permission was denied on the object '@CNOT', database 'SBO_Pruebas', schema 'dbo'. (severity 14) in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/cNotes.php on line 20
+[16-Oct-2017 01:10:06 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/cNotes.php on line 20
+[16-Oct-2017 01:10:06 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/cNotes.php on line 20
+[16-Oct-2017 01:10:06 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/cNotes.php on line 23
+[16-Oct-2017 01:10:21 UTC] PHP Warning:  mssql_query(): message: The UPDATE permission was denied on the object '@CNOT', database 'SBO_Pruebas', schema 'dbo'. (severity 14) in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/cNotes.php on line 20
+[16-Oct-2017 01:10:21 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/cNotes.php on line 20
+[16-Oct-2017 01:10:21 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/cNotes.php on line 20
+[16-Oct-2017 01:10:21 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/cNotes.php on line 23
+[21-Oct-2017 04:17:54 UTC] PHP Warning:  mssql_query(): message: The INSERT permission was denied on the object '@DISCOUNT', database 'SBO_Pruebas', schema 'dbo'. (severity 14) in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/discounts.php on line 19
+[21-Oct-2017 04:17:54 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/discounts.php on line 19
+[21-Oct-2017 04:17:54 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/discounts.php on line 19
+[21-Oct-2017 04:17:54 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/discounts.php on line 22
+[21-Oct-2017 04:25:52 UTC] PHP Warning:  mssql_query(): message: The UPDATE permission was denied on the object '@CNOT', database 'SBO_Pruebas', schema 'dbo'. (severity 14) in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/cNotes.php on line 20
+[21-Oct-2017 04:25:52 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/cNotes.php on line 20
+[21-Oct-2017 04:25:52 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/cNotes.php on line 20
+[21-Oct-2017 04:25:52 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/cNotes.php on line 23
+[21-Oct-2017 04:26:21 UTC] PHP Warning:  mssql_query(): message: The UPDATE permission was denied on the object '@CNOT', database 'SBO_Pruebas', schema 'dbo'. (severity 14) in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/cNotes.php on line 20
+[21-Oct-2017 04:26:21 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/cNotes.php on line 20
+[21-Oct-2017 04:26:21 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/cNotes.php on line 20
+[21-Oct-2017 04:26:21 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/cNotes.php on line 23
+[21-Oct-2017 04:26:41 UTC] PHP Warning:  mssql_query(): message: The UPDATE permission was denied on the object '@CNOT', database 'SBO_Pruebas', schema 'dbo'. (severity 14) in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/cNotes.php on line 20
+[21-Oct-2017 04:26:41 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/cNotes.php on line 20
+[21-Oct-2017 04:26:41 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/cNotes.php on line 20
+[21-Oct-2017 04:26:41 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/cNotes.php on line 23
+[21-Oct-2017 04:31:46 UTC] PHP Warning:  mssql_query(): message: The INSERT permission was denied on the object '@CNOT', database 'SBO_Pruebas', schema 'dbo'. (severity 14) in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/cNotes.php on line 20
+[21-Oct-2017 04:31:46 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/cNotes.php on line 20
+[21-Oct-2017 04:31:46 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/cNotes.php on line 20
+[21-Oct-2017 04:31:46 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/cNotes.php on line 23
+[21-Oct-2017 04:31:48 UTC] PHP Warning:  mssql_query(): message: The INSERT permission was denied on the object '@CNOT', database 'SBO_Pruebas', schema 'dbo'. (severity 14) in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/cNotes.php on line 20
+[21-Oct-2017 04:31:48 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/cNotes.php on line 20
+[21-Oct-2017 04:31:48 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/cNotes.php on line 20
+[21-Oct-2017 04:31:48 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/cNotes.php on line 23
+[06-Dec-2017 23:06:15 UTC] PHP Warning:  mssql_query(): message: The UPDATE permission was denied on the object 'OSLP', database 'SBO_Pruebas', schema 'dbo'. (severity 14) in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/empAdmin.php on line 8
+[06-Dec-2017 23:06:15 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/empAdmin.php on line 8
+[06-Dec-2017 23:06:15 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/empAdmin.php on line 8
+[06-Dec-2017 23:06:15 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/empAdmin.php on line 11
+[06-Dec-2017 23:26:48 UTC] PHP Warning:  mssql_query(): message: The UPDATE permission was denied on the object 'OSLP', database 'SBO_Pruebas', schema 'dbo'. (severity 14) in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/empAdmin.php on line 8
+[06-Dec-2017 23:26:48 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/empAdmin.php on line 8
+[06-Dec-2017 23:26:48 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/empAdmin.php on line 8
+[06-Dec-2017 23:26:48 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/empAdmin.php on line 11
+[07-Dec-2017 14:36:53 UTC] PHP Warning:  mssql_query(): message: The UPDATE permission was denied on the object 'OSLP', database 'SBO_Pruebas', schema 'dbo'. (severity 14) in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/empAdmin.php on line 8
+[07-Dec-2017 14:36:53 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/empAdmin.php on line 8
+[07-Dec-2017 14:36:53 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/empAdmin.php on line 8
+[07-Dec-2017 14:36:53 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/empAdmin.php on line 11
+[07-Dec-2017 14:37:02 UTC] PHP Warning:  mssql_query(): message: The UPDATE permission was denied on the object 'OSLP', database 'SBO_Pruebas', schema 'dbo'. (severity 14) in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/empAdmin.php on line 8
+[07-Dec-2017 14:37:02 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/empAdmin.php on line 8
+[07-Dec-2017 14:37:02 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/empAdmin.php on line 8
+[07-Dec-2017 14:37:02 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/empAdmin.php on line 11
+[13-Dec-2017 22:14:50 UTC] PHP Warning:  mssql_query(): message: The UPDATE permission was denied on the object 'OSLP', database 'SBO_Pruebas', schema 'dbo'. (severity 14) in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/empAdmin.php on line 8
+[13-Dec-2017 22:14:50 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/empAdmin.php on line 8
+[13-Dec-2017 22:14:50 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/empAdmin.php on line 8
+[13-Dec-2017 22:14:50 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/empAdmin.php on line 11
+[18-Dec-2017 18:42:07 UTC] PHP Warning:  mssql_query(): message: The UPDATE permission was denied on the object 'OSLP', database 'SBO_Pruebas', schema 'dbo'. (severity 14) in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/empAdmin.php on line 8
+[18-Dec-2017 18:42:07 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/empAdmin.php on line 8
+[18-Dec-2017 18:42:07 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/empAdmin.php on line 8
+[18-Dec-2017 18:42:07 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/empAdmin.php on line 11
+[25-Jan-2018 21:53:33 UTC] PHP Warning:  mssql_query(): message: The UPDATE permission was denied on the object 'OSLP', database 'SBO_Pruebas', schema 'dbo'. (severity 14) in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/empAdmin.php on line 8
+[25-Jan-2018 21:53:33 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/empAdmin.php on line 8
+[25-Jan-2018 21:53:33 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/empAdmin.php on line 8
+[25-Jan-2018 21:53:33 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/empAdmin.php on line 11
+[14-Feb-2018 19:34:09 UTC] PHP Warning:  mssql_query(): message: The UPDATE permission was denied on the object 'OSLP', database 'SBO_Pruebas', schema 'dbo'. (severity 14) in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/empAdmin.php on line 8
+[14-Feb-2018 19:34:09 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 14) in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/empAdmin.php on line 8
+[14-Feb-2018 19:34:09 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/empAdmin.php on line 8
+[14-Feb-2018 19:34:09 UTC] PHP Fatal error:  Call to undefined function mssql_error() in /hostingDataA0/lomejordetucol/public_html/includes/genadmin/empAdmin.php on line 11

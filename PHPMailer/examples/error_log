@@ -1,0 +1,5 @@
+[20-May-2016 19:45:00 Etc/UTC] PHP Fatal error:  Class 'PHPMailer' not found in /hostingDataA1/idited/public_html/folium/PHPMailer/examples/smtp.php on line 13
+[20-May-2016 19:45:21 Etc/UTC] PHP Warning:  file_get_contents(contents.html): failed to open stream: No such file or directory in /hostingDataA1/idited/public_html/folium/PHPMailer/examples/smtp.php on line 43
+[20-May-2016 19:45:43 Etc/UTC] PHP Warning:  file_get_contents(contents.html): failed to open stream: No such file or directory in /hostingDataA1/idited/public_html/folium/PHPMailer/examples/smtp.php on line 43
+[20-May-2016 19:46:54 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /hostingDataA1/idited/public_html/folium/PHPMailer/examples/smtp.php on line 52
+[20-May-2016 19:48:31 Etc/UTC] PHP Fatal error:  Class 'SMTP' not found in /hostingDataA1/idited/public_html/folium/PHPMailer/class.phpmailer.php on line 1443

@@ -1,0 +1,92 @@
+body {
+	color:#333333;
+	background: url(/images/alianza-back.jpg) no-repeat top left;
+}
+
+a {
+	color:#3e4959;
+}
+a:hover {
+	color:#495469;
+}
+
+/*===== Navigation =====*/
+
+#navigation {
+	background-color: #495469;
+}
+.mainNav li a {
+	color:#8399b5;
+}
+.mainNav li a:hover {
+	color:#a1bddb;
+}
+.mainNav li ul {
+	background-color:#3e4959;
+}
+.mainNav li ul li a { 
+    color: #8399b5;
+}
+.mainNav li ul li a:hover { 
+    color: #a1bddb;
+}
+
+/*===== Main Content =====*/
+#header {
+	color:#333333;
+}
+#header ul li a {
+	color:#333;
+}
+#subHeader {
+	
+}
+#subHeader ul li a{
+    border: 1px solid #495469;
+    color: #333;
+}
+#subHeader ul li a:hover {
+	background-color:#495469;
+}
+#subHeader ul li a:active, #subHeader ul li a.active {
+	background-color:#495469;
+	color:#FFF;
+}
+/**/
+
+.ups {
+	color:#39a6ff;
+}
+
+
+/*===== Page =====*/
+				
+#webApps {
+    background: #e65e26;
+}
+/*===== New Quote =====*/
+.item {
+	border-top: 2px solid #e65e26;
+}
+
+#footer {
+	background-color:#e65e26;
+}
+
+/*===== Responsive =====*/
+@media (max-width: 900px) {
+	#subHeaderTitle {
+		border:1px solid #495469;
+		background-color:#495469;
+		color:#FFF;
+	}
+	#subHeader ul li a {
+		color:#8399b5;
+	}
+	#subHeader ul li a:active, #subHeader ul li a.active {
+		color:#8399b5;
+	}
+	#subHeader ul li a:hover {
+		color:#a1bddb;
+	}
+}

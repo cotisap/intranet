@@ -1,0 +1,282 @@
+[14-Dec-2017 14:31:00 America/Mexico_City] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4461568 bytes) in /hostingDataA0/lomejordetucol/public_html/home.php on line 414
+[14-Dec-2017 14:35:24 America/Mexico_City] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4461568 bytes) in /hostingDataA0/lomejordetucol/public_html/home.php on line 414
+[14-Dec-2017 14:35:48 America/Mexico_City] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4461568 bytes) in /hostingDataA0/lomejordetucol/public_html/home.php on line 414
+[14-Dec-2017 14:36:29 America/Mexico_City] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4461568 bytes) in /hostingDataA0/lomejordetucol/public_html/home.php on line 414
+[14-Dec-2017 14:38:49 America/Mexico_City] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4461568 bytes) in /hostingDataA0/lomejordetucol/public_html/home.php on line 414
+[14-Dec-2017 14:41:08 America/Mexico_City] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4461568 bytes) in /hostingDataA0/lomejordetucol/public_html/home.php on line 414
+[14-Dec-2017 14:43:29 America/Mexico_City] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4461568 bytes) in /hostingDataA0/lomejordetucol/public_html/home.php on line 414
+[14-Dec-2017 14:45:49 America/Mexico_City] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4461568 bytes) in /hostingDataA0/lomejordetucol/public_html/home.php on line 414
+[14-Dec-2017 15:00:12 America/Mexico_City] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4461568 bytes) in /hostingDataA0/lomejordetucol/public_html/home.php on line 414
+[14-Dec-2017 15:02:32 America/Mexico_City] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4461568 bytes) in /hostingDataA0/lomejordetucol/public_html/home.php on line 414
+[14-Dec-2017 15:05:20 America/Mexico_City] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4461568 bytes) in /hostingDataA0/lomejordetucol/public_html/home.php on line 414
+[14-Dec-2017 15:07:40 America/Mexico_City] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4461568 bytes) in /hostingDataA0/lomejordetucol/public_html/home.php on line 414
+[14-Dec-2017 15:10:00 America/Mexico_City] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4461568 bytes) in /hostingDataA0/lomejordetucol/public_html/home.php on line 414
+[14-Dec-2017 15:12:31 America/Mexico_City] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4461568 bytes) in /hostingDataA0/lomejordetucol/public_html/home.php on line 414
+[14-Dec-2017 15:16:15 America/Mexico_City] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4461568 bytes) in /hostingDataA0/lomejordetucol/public_html/home.php on line 414
+[14-Dec-2017 15:22:28 America/Mexico_City] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4461568 bytes) in /hostingDataA0/lomejordetucol/public_html/home.php on line 414
+[14-Dec-2017 15:27:42 America/Mexico_City] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4461568 bytes) in /hostingDataA0/lomejordetucol/public_html/home.php on line 414
+[14-Dec-2017 15:30:02 America/Mexico_City] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4461568 bytes) in /hostingDataA0/lomejordetucol/public_html/home.php on line 414
+[14-Dec-2017 23:24:27 UTC] PHP Parse error:  syntax error, unexpected '}' in /hostingDataA0/lomejordetucol/public_html/home.php on line 734
+[14-Dec-2017 23:25:17 UTC] PHP Parse error:  syntax error, unexpected '}' in /hostingDataA0/lomejordetucol/public_html/home.php on line 734
+[18-Dec-2017 18:57:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /hostingDataA0/lomejordetucol/public_html/home.php on line 334
+[18-Dec-2017 19:37:50 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /hostingDataA0/lomejordetucol/public_html/home.php on line 552
+[27-Dec-2017 01:24:41 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /hostingDataA0/lomejordetucol/public_html/home.php on line 530
+[27-Dec-2017 18:42:02 UTC] PHP Warning:  mssql_connect(): Unable to connect to server:  in /hostingDataA0/lomejordetucol/public_html/includes/mssqlconn.php on line 58
+[27-Dec-2017 18:42:31 UTC] PHP Warning:  mssql_connect(): Unable to connect to server:  in /hostingDataA0/lomejordetucol/public_html/includes/mssqlconn.php on line 58
+[27-Dec-2017 18:47:02 UTC] PHP Warning:  mssql_connect(): Unable to connect to server:  in /hostingDataA0/lomejordetucol/public_html/includes/mssqlconn.php on line 58
+[27-Dec-2017 18:47:03 UTC] PHP Warning:  mssql_connect(): Unable to connect to server:  in /hostingDataA0/lomejordetucol/public_html/includes/mssqlconn.php on line 58
+[27-Dec-2017 18:47:04 UTC] PHP Warning:  mssql_connect(): Unable to connect to server:  in /hostingDataA0/lomejordetucol/public_html/includes/mssqlconn.php on line 58
+[27-Dec-2017 18:47:04 UTC] PHP Warning:  mssql_connect(): Unable to connect to server:  in /hostingDataA0/lomejordetucol/public_html/includes/mssqlconn.php on line 58
+[27-Dec-2017 18:47:04 UTC] PHP Warning:  mssql_connect(): Unable to connect to server:  in /hostingDataA0/lomejordetucol/public_html/includes/mssqlconn.php on line 58
+[27-Dec-2017 18:47:05 UTC] PHP Warning:  mssql_connect(): Unable to connect to server:  in /hostingDataA0/lomejordetucol/public_html/includes/mssqlconn.php on line 58
+[27-Dec-2017 18:47:05 UTC] PHP Warning:  mssql_connect(): Unable to connect to server:  in /hostingDataA0/lomejordetucol/public_html/includes/mssqlconn.php on line 58
+[27-Dec-2017 18:49:22 UTC] PHP Warning:  mssql_connect(): Unable to connect to server:  in /hostingDataA0/lomejordetucol/public_html/includes/mssqlconn.php on line 58
+[27-Dec-2017 18:49:23 UTC] PHP Warning:  mssql_connect(): Unable to connect to server:  in /hostingDataA0/lomejordetucol/public_html/includes/mssqlconn.php on line 58
+[27-Dec-2017 18:49:24 UTC] PHP Warning:  mssql_connect(): Unable to connect to server:  in /hostingDataA0/lomejordetucol/public_html/includes/mssqlconn.php on line 58
+[27-Dec-2017 18:49:24 UTC] PHP Warning:  mssql_connect(): Unable to connect to server:  in /hostingDataA0/lomejordetucol/public_html/includes/mssqlconn.php on line 58
+[27-Dec-2017 18:49:24 UTC] PHP Warning:  mssql_connect(): Unable to connect to server:  in /hostingDataA0/lomejordetucol/public_html/includes/mssqlconn.php on line 58
+[27-Dec-2017 18:49:25 UTC] PHP Warning:  mssql_connect(): Unable to connect to server:  in /hostingDataA0/lomejordetucol/public_html/includes/mssqlconn.php on line 58
+[27-Dec-2017 18:49:25 UTC] PHP Warning:  mssql_connect(): Unable to connect to server:  in /hostingDataA0/lomejordetucol/public_html/includes/mssqlconn.php on line 58
+[27-Dec-2017 18:49:39 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /hostingDataA0/lomejordetucol/public_html/cron.php on line 49
+[27-Dec-2017 18:49:39 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /hostingDataA0/lomejordetucol/public_html/cron.php on line 49
+[27-Dec-2017 18:49:39 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /hostingDataA0/lomejordetucol/public_html/cron.php on line 53
+[27-Dec-2017 18:50:56 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /hostingDataA0/lomejordetucol/public_html/cron.php on line 49
+[27-Dec-2017 18:50:56 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /hostingDataA0/lomejordetucol/public_html/cron.php on line 49
+[27-Dec-2017 18:50:56 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /hostingDataA0/lomejordetucol/public_html/cron.php on line 53
+[27-Dec-2017 18:50:58 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /hostingDataA0/lomejordetucol/public_html/cron.php on line 49
+[27-Dec-2017 18:50:58 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /hostingDataA0/lomejordetucol/public_html/cron.php on line 49
+[27-Dec-2017 18:50:58 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /hostingDataA0/lomejordetucol/public_html/cron.php on line 53
+[27-Dec-2017 19:06:12 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /hostingDataA0/lomejordetucol/public_html/cron.php on line 80
+[27-Dec-2017 19:06:28 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /hostingDataA0/lomejordetucol/public_html/cron.php on line 80
+[27-Dec-2017 19:06:41 UTC] PHP Warning:  mssql_fetch_assoc() expects parameter 1 to be resource, null given in /hostingDataA0/lomejordetucol/public_html/cron.php on line 80
+[27-Dec-2017 19:06:43 UTC] PHP Warning:  mssql_fetch_assoc() expects parameter 1 to be resource, null given in /hostingDataA0/lomejordetucol/public_html/cron.php on line 80
+[27-Dec-2017 20:08:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[27-Dec-2017 20:08:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA0/lomejordetucol/public_html/cron.php on line 77
+[03-Jan-2018 17:03:22 UTC] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /hostingDataA0/lomejordetucol/public_html/index.php on line 26
+[07-Jan-2018 20:13:36 UTC] PHP Warning:  mssql_query(): message: Incorrect syntax near '='. (severity 15) in /hostingDataA0/lomejordetucol/public_html/fpdf/mc_table.php on line 232
+[07-Jan-2018 20:13:37 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA0/lomejordetucol/public_html/fpdf/mc_table.php on line 232
+[07-Jan-2018 20:13:37 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA0/lomejordetucol/public_html/fpdf/mc_table.php on line 232
+[07-Jan-2018 20:13:37 UTC] PHP Warning:  mssql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA0/lomejordetucol/public_html/fpdf/mc_table.php on line 233
+[07-Jan-2018 20:13:37 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /hostingDataA0/lomejordetucol/public_html/pdf.php on line 22
+[07-Jan-2018 20:13:37 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA0/lomejordetucol/public_html/pdf.php on line 58
+[07-Jan-2018 20:13:37 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA0/lomejordetucol/public_html/pdf.php on line 83
+[07-Jan-2018 20:13:37 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file (output started at /hostingDataA0/lomejordetucol/public_html/fpdf/mc_table.php:232)' in /hostingDataA0/lomejordetucol/public_html/fpdf/fpdf.php:271
+Stack trace:
+#0 /hostingDataA0/lomejordetucol/public_html/fpdf/fpdf.php(1052): FPDF->Error('Some data has a...')
+#1 /hostingDataA0/lomejordetucol/public_html/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /hostingDataA0/lomejordetucol/public_html/pdf.php(155): FPDF->Output()
+#3 {main}
+  thrown in /hostingDataA0/lomejordetucol/public_html/fpdf/fpdf.php on line 271
+[13-Jan-2018 18:25:46 UTC] PHP Warning:  mssql_connect(): Unable to connect to server:  in /hostingDataA0/lomejordetucol/public_html/includes/mssqlconn.php on line 58
+[29-Jan-2018 19:37:40 UTC] PHP Parse error:  syntax error, unexpected ';' in /hostingDataA0/lomejordetucol/public_html/mbrSalesQuotation.php on line 66
+[29-Jan-2018 20:21:47 UTC] PHP Warning:  mssql_connect(): Unable to connect to server:  in /hostingDataA0/lomejordetucol/public_html/includes/mssqlconn.php on line 58
+[25-May-2018 14:21:50 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /hostingDataA0/lomejordetucol/public_html/modules/itemLine.php on line 457
+[25-May-2018 14:22:29 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /hostingDataA0/lomejordetucol/public_html/modules/itemLine.php on line 457
+[25-May-2018 14:22:45 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /hostingDataA0/lomejordetucol/public_html/modules/itemLine.php on line 454
+[25-May-2018 20:51:34 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /hostingDataA0/lomejordetucol/public_html/pdf.php on line 157
+[25-May-2018 21:17:32 UTC] PHP Warning:  mssql_connect(): Unable to connect to server:  in /hostingDataA0/lomejordetucol/public_html/includes/mssqlconn.php on line 58
+[30-May-2018 06:39:10 UTC] PHP Warning:  mssql_connect(): Unable to connect to server:  in /hostingDataA0/lomejordetucol/public_html/includes/mssqlconn.php on line 58
+[31-May-2018 06:20:01 UTC] PHP Warning:  mssql_connect(): Unable to connect to server:  in /hostingDataA0/lomejordetucol/public_html/includes/mssqlconn.php on line 58
+[31-May-2018 16:09:44 UTC] PHP Warning:  mssql_connect(): Unable to connect to server:  in /hostingDataA0/lomejordetucol/public_html/includes/mssqlconn.php on line 58
+[01-Jun-2018 15:38:02 UTC] PHP Warning:  mssql_connect(): Unable to connect to server:  in /hostingDataA0/lomejordetucol/public_html/includes/mssqlconn.php on line 58
+[01-Jun-2018 22:49:05 UTC] PHP Warning:  mssql_connect(): Unable to connect to server:  in /hostingDataA0/lomejordetucol/public_html/includes/mssqlconn.php on line 58
+[03-Jun-2018 01:26:28 UTC] PHP Warning:  mssql_connect(): Unable to connect to server:  in /hostingDataA0/lomejordetucol/public_html/includes/mssqlconn.php on line 58
+[03-Jun-2018 22:53:52 UTC] PHP Warning:  mssql_connect(): Unable to connect to server:  in /hostingDataA0/lomejordetucol/public_html/includes/mssqlconn.php on line 58
+[04-Jun-2018 04:22:51 UTC] PHP Warning:  mssql_connect(): Unable to connect to server:  in /hostingDataA0/lomejordetucol/public_html/includes/mssqlconn.php on line 58
+[07-Jun-2018 23:54:53 UTC] PHP Warning:  mssql_connect(): Unable to connect to server:  in /hostingDataA0/lomejordetucol/public_html/includes/mssqlconn.php on line 58
+[08-Jun-2018 04:23:11 UTC] PHP Warning:  mssql_connect(): Unable to connect to server:  in /hostingDataA0/lomejordetucol/public_html/includes/mssqlconn.php on line 58
+[09-Jun-2018 04:45:21 UTC] PHP Warning:  mssql_connect(): Unable to connect to server:  in /hostingDataA0/lomejordetucol/public_html/includes/mssqlconn.php on line 58
+[28-Jun-2018 22:57:33 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: corporativo-vallejo-tntchvdtpq.dynamic-m.com:1433/ in /hostingDataA0/lomejordetucol/public_html/includes/mssqlconn.php on line 58
+[28-Jun-2018 22:57:43 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: corporativo-vallejo-tntchvdtpq.dynamic-m.com:1433/ in /hostingDataA0/lomejordetucol/public_html/includes/mssqlconn.php on line 58
+[28-Jun-2018 22:57:53 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: corporativo-vallejo-tntchvdtpq.dynamic-m.com:1433/ in /hostingDataA0/lomejordetucol/public_html/includes/mssqlconn.php on line 58
+[28-Jun-2018 23:01:26 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: corporativo-vallejo-tntchvdtpq.dynamic-m.com:1433/ in /hostingDataA0/lomejordetucol/public_html/includes/mssqlconn.php on line 58
+[28-Jun-2018 23:01:33 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: corporativo-vallejo-tntchvdtpq.dynamic-m.com:1433/ in /hostingDataA0/lomejordetucol/public_html/includes/mssqlconn.php on line 58
+[28-Jun-2018 23:01:37 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: corporativo-vallejo-tntchvdtpq.dynamic-m.com:1433/ in /hostingDataA0/lomejordetucol/public_html/includes/mssqlconn.php on line 58
+[28-Jun-2018 23:22:05 UTC] PHP Warning:  mssql_connect(): Unable to connect to server:  in /hostingDataA0/lomejordetucol/public_html/includes/mssqlconn.php on line 58
+[29-Jun-2018 14:03:05 America/Mexico_City] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /hostingDataA0/lomejordetucol/public_html/modules/itemLine.php on line 349
+[29-Jun-2018 14:03:51 America/Mexico_City] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /hostingDataA0/lomejordetucol/public_html/modules/itemLine.php on line 349
+[29-Jun-2018 14:05:11 America/Mexico_City] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /hostingDataA0/lomejordetucol/public_html/modules/itemLine.php on line 349
+[29-Jun-2018 15:04:34 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /hostingDataA0/lomejordetucol/public_html/modules/itemLine.php on line 343
+[29-Jun-2018 15:04:44 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /hostingDataA0/lomejordetucol/public_html/modules/itemLine.php on line 343
+[29-Jun-2018 15:05:00 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /hostingDataA0/lomejordetucol/public_html/modules/itemLine.php on line 343
+[03-Jul-2018 15:06:07 UTC] PHP Warning:  mssql_connect(): Unable to connect to server:  in /hostingDataA0/lomejordetucol/public_html/includes/mssqlconn.php on line 58
+[16-Jul-2018 17:55:23 UTC] PHP Warning:  mssql_connect(): Unable to connect to server:  in /hostingDataA4/lomejordetucol/public_html/includes/mssqlconn.php on line 58
+[20-Jul-2018 18:40:17 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /hostingDataA4/lomejordetucol/public_html/home.php:2) in /hostingDataA4/lomejordetucol/public_html/head.php on line 5
+[20-Jul-2018 18:40:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /hostingDataA4/lomejordetucol/public_html/home.php:2) in /hostingDataA4/lomejordetucol/public_html/head.php on line 25
+[24-Aug-2018 21:07:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /hostingDataA4/lomejordetucol/public_html/uploadFiles.php:35) in /hostingDataA4/lomejordetucol/public_html/uploadFiles.php on line 41
+[24-Aug-2018 21:07:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /hostingDataA4/lomejordetucol/public_html/uploadFiles.php:35) in /hostingDataA4/lomejordetucol/public_html/uploadFiles.php on line 41
+[24-Aug-2018 21:09:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /hostingDataA4/lomejordetucol/public_html/uploadFiles.php:35) in /hostingDataA4/lomejordetucol/public_html/uploadFiles.php on line 45
+[24-Aug-2018 21:11:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /hostingDataA4/lomejordetucol/public_html/uploadFiles.php:35) in /hostingDataA4/lomejordetucol/public_html/uploadFiles.php on line 45
+[24-Aug-2018 21:11:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /hostingDataA4/lomejordetucol/public_html/uploadFiles.php:35) in /hostingDataA4/lomejordetucol/public_html/uploadFiles.php on line 45
+[24-Aug-2018 21:11:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /hostingDataA4/lomejordetucol/public_html/uploadFiles.php:35) in /hostingDataA4/lomejordetucol/public_html/uploadFiles.php on line 45
+[24-Aug-2018 21:12:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /hostingDataA4/lomejordetucol/public_html/uploadFiles.php:2) in /hostingDataA4/lomejordetucol/public_html/uploadFiles.php on line 46
+[24-Aug-2018 21:12:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /hostingDataA4/lomejordetucol/public_html/uploadFiles.php:2) in /hostingDataA4/lomejordetucol/public_html/uploadFiles.php on line 46
+[24-Aug-2018 21:49:56 UTC] PHP Warning:  getimagesize(images/fondo-alianza.jpg): failed to open stream: No such file or directory in /hostingDataA4/lomejordetucol/public_html/fpdf/fpdf.php on line 1240
+[24-Aug-2018 21:49:56 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Missing or incorrect image file: images/fondo-alianza.jpg' in /hostingDataA4/lomejordetucol/public_html/fpdf/fpdf.php:271
+Stack trace:
+#0 /hostingDataA4/lomejordetucol/public_html/fpdf/fpdf.php(1242): FPDF->Error('Missing or inco...')
+#1 /hostingDataA4/lomejordetucol/public_html/fpdf/fpdf.php(885): FPDF->_parsejpg('images/fondo-al...')
+#2 /hostingDataA4/lomejordetucol/public_html/pdf.php(158): FPDF->Image('images/fondo-al...', 10.00125, 10.00125, 200)
+#3 {main}
+  thrown in /hostingDataA4/lomejordetucol/public_html/fpdf/fpdf.php on line 271
+[24-Aug-2018 21:50:19 UTC] PHP Warning:  getimagesize(images/fondo-alianza.jpg): failed to open stream: No such file or directory in /hostingDataA4/lomejordetucol/public_html/fpdf/fpdf.php on line 1240
+[24-Aug-2018 21:50:19 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Missing or incorrect image file: images/fondo-alianza.jpg' in /hostingDataA4/lomejordetucol/public_html/fpdf/fpdf.php:271
+Stack trace:
+#0 /hostingDataA4/lomejordetucol/public_html/fpdf/fpdf.php(1242): FPDF->Error('Missing or inco...')
+#1 /hostingDataA4/lomejordetucol/public_html/fpdf/fpdf.php(885): FPDF->_parsejpg('images/fondo-al...')
+#2 /hostingDataA4/lomejordetucol/public_html/pdf.php(158): FPDF->Image('images/fondo-al...', 10.00125, 10.00125, 200)
+#3 {main}
+  thrown in /hostingDataA4/lomejordetucol/public_html/fpdf/fpdf.php on line 271
+[24-Aug-2018 21:58:40 UTC] PHP Warning:  getimagesize(images/promocion-alianza.jpg): failed to open stream: No such file or directory in /hostingDataA4/lomejordetucol/public_html/fpdf/fpdf.php on line 1240
+[24-Aug-2018 21:58:40 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Missing or incorrect image file: images/promocion-alianza.jpg' in /hostingDataA4/lomejordetucol/public_html/fpdf/fpdf.php:271
+Stack trace:
+#0 /hostingDataA4/lomejordetucol/public_html/fpdf/fpdf.php(1242): FPDF->Error('Missing or inco...')
+#1 /hostingDataA4/lomejordetucol/public_html/fpdf/fpdf.php(885): FPDF->_parsejpg('images/promocio...')
+#2 /hostingDataA4/lomejordetucol/public_html/pdf.php(158): FPDF->Image('images/promocio...', 10.00125, 10.00125, 200)
+#3 {main}
+  thrown in /hostingDataA4/lomejordetucol/public_html/fpdf/fpdf.php on line 271
+[27-Aug-2018 15:53:18 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA4/lomejordetucol/public_html/blog.php on line 45
+[27-Aug-2018 16:38:59 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA4/lomejordetucol/public_html/blog.php on line 45
+[27-Aug-2018 16:39:39 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA4/lomejordetucol/public_html/blog.php on line 45
+[27-Aug-2018 23:11:51 UTC] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '$' in /hostingDataA4/lomejordetucol/public_html/blog.php on line 13
+[27-Aug-2018 23:11:53 UTC] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '$' in /hostingDataA4/lomejordetucol/public_html/blog.php on line 13

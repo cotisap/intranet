@@ -1,0 +1,356 @@
+[25-Apr-2016 23:55:45 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 50
+[25-Apr-2016 23:55:45 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 88
+[25-Apr-2016 23:58:18 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 50
+[25-Apr-2016 23:58:18 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 88
+[26-Apr-2016 01:08:45 UTC] PHP Warning:  mssql_fetch_array(): supplied resource is not a valid MS SQL-result resource in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 26
+[26-Apr-2016 01:10:54 UTC] PHP Warning:  mssql_fetch_array(): supplied resource is not a valid MS SQL-result resource in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 26
+[26-Apr-2016 01:17:28 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 65
+[26-Apr-2016 01:17:59 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 66
+[26-Apr-2016 01:19:03 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 66
+[26-Apr-2016 14:06:33 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 106
+[26-Apr-2016 19:02:55 UTC] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 19:02:55 UTC] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 19:20:22 UTC] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 3
+[26-Apr-2016 19:20:22 UTC] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 3
+[26-Apr-2016 19:20:22 UTC] PHP Warning:  mssql_query(): Unable to connect to server:  in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 18
+[26-Apr-2016 19:20:22 UTC] PHP Warning:  mssql_query(): A link to the server could not be established in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 18
+[26-Apr-2016 19:20:22 UTC] PHP Warning:  mssql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 21
+[26-Apr-2016 19:20:22 UTC] PHP Warning:  mysql_query(): Access denied for user 'idited'@'localhost' (using password: NO) in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 25
+[26-Apr-2016 19:20:22 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 25
+[26-Apr-2016 19:20:22 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 27
+[26-Apr-2016 19:20:22 UTC] PHP Warning:  mssql_query(): Unable to connect to server:  in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 40
+[26-Apr-2016 19:20:22 UTC] PHP Warning:  mssql_query(): A link to the server could not be established in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 40
+[26-Apr-2016 19:20:22 UTC] PHP Warning:  mssql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 43
+[26-Apr-2016 19:20:22 UTC] PHP Warning:  mysql_query(): Access denied for user 'idited'@'localhost' (using password: NO) in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 47
+[26-Apr-2016 19:20:22 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 47
+[26-Apr-2016 19:20:22 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 49
+[26-Apr-2016 19:20:22 UTC] PHP Warning:  mssql_query(): Unable to connect to server:  in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 82
+[26-Apr-2016 19:20:22 UTC] PHP Warning:  mssql_query(): A link to the server could not be established in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 82
+[26-Apr-2016 19:20:22 UTC] PHP Warning:  mssql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 83
+[26-Apr-2016 19:20:22 UTC] PHP Warning:  mysql_query(): Access denied for user 'idited'@'localhost' (using password: NO) in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 87
+[26-Apr-2016 19:20:22 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 87
+[26-Apr-2016 19:20:22 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 89
+[26-Apr-2016 19:20:22 UTC] PHP Warning:  mssql_query(): Unable to connect to server:  in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 128
+[26-Apr-2016 19:20:22 UTC] PHP Warning:  mssql_query(): A link to the server could not be established in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 128
+[26-Apr-2016 19:20:22 UTC] PHP Warning:  mssql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 129
+[26-Apr-2016 19:20:40 UTC] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 19:20:40 UTC] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 19:20:50 UTC] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 19:20:50 UTC] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 19:20:53 UTC] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 19:20:53 UTC] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 19:20:57 UTC] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 19:20:57 UTC] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 19:20:58 UTC] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 19:20:58 UTC] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 19:20:58 UTC] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 19:20:58 UTC] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 19:20:58 UTC] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 19:20:58 UTC] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 19:20:58 UTC] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 19:20:58 UTC] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 19:20:58 UTC] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 19:20:58 UTC] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 19:20:59 UTC] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 19:20:59 UTC] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 19:52:56 UTC] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 19:52:56 UTC] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 19:53:24 UTC] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 19:53:24 UTC] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 20:03:33 UTC] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 20:03:33 UTC] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 20:03:36 UTC] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 20:03:36 UTC] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 20:13:53 UTC] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 20:13:53 UTC] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 20:20:58 UTC] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 20:20:58 UTC] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 20:21:27 UTC] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 20:21:27 UTC] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 20:21:29 UTC] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 20:21:29 UTC] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 20:21:30 UTC] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 20:21:30 UTC] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 20:21:32 UTC] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 20:21:32 UTC] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 20:22:38 UTC] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 20:22:38 UTC] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 20:35:59 UTC] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 20:35:59 UTC] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 20:36:07 UTC] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 20:36:07 UTC] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 20:36:13 UTC] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 20:36:13 UTC] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 20:36:26 UTC] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 20:36:26 UTC] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 20:37:42 UTC] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 20:37:42 UTC] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 20:37:42 UTC] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 20:37:42 UTC] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 20:37:48 UTC] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 20:37:48 UTC] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 20:37:58 UTC] PHP Warning:  require(/fpdf/fpdf.php): failed to open stream: No such file or directory in /hostingDataA1/idited/public_html/folium/Cotizacion/CrearCotizacion.php on line 26
+[26-Apr-2016 20:37:58 UTC] PHP Fatal error:  require(): Failed opening required '/fpdf/fpdf.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /hostingDataA1/idited/public_html/folium/Cotizacion/CrearCotizacion.php on line 26
+[26-Apr-2016 20:37:58 UTC] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 20:37:58 UTC] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 20:38:31 UTC] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 20:38:31 UTC] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 20:38:37 UTC] PHP Warning:  require(/fpdf/fpdf.php): failed to open stream: No such file or directory in /hostingDataA1/idited/public_html/folium/Cotizacion/CrearCotizacion.php on line 26
+[26-Apr-2016 20:38:37 UTC] PHP Fatal error:  require(): Failed opening required '/fpdf/fpdf.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /hostingDataA1/idited/public_html/folium/Cotizacion/CrearCotizacion.php on line 26
+[26-Apr-2016 20:38:38 UTC] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 20:38:38 UTC] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 20:40:46 UTC] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 20:40:46 UTC] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 20:40:53 UTC] PHP Fatal error:  Call to undefined function requre() in /hostingDataA1/idited/public_html/folium/Cotizacion/CrearCotizacion.php on line 28
+[26-Apr-2016 20:40:53 UTC] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 20:40:53 UTC] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 20:42:16 UTC] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 20:42:16 UTC] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 20:42:21 UTC] PHP Fatal error:  Class 'FPDF' not found in /hostingDataA1/idited/public_html/folium/Cotizacion/CrearCotizacion.php on line 30
+[26-Apr-2016 20:42:22 UTC] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 20:42:22 UTC] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 21:07:01 UTC] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 21:07:01 UTC] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 21:07:31 UTC] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 21:07:31 UTC] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 21:07:52 UTC] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 21:07:52 UTC] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 21:10:03 UTC] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 21:10:03 UTC] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 21:10:12 UTC] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 21:10:12 UTC] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 21:10:15 UTC] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 21:10:15 UTC] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 21:10:26 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 21:10:26 UTC] PHP Warning:  include(): Failed opening '/head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 21:10:32 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 21:10:32 UTC] PHP Warning:  include(): Failed opening '/head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 4
+[26-Apr-2016 21:16:05 UTC] PHP Warning:  mssql_query(): message: 'CONCAT' is not a recognized built-in function name. (severity 15) in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:16:05 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:16:05 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:16:05 UTC] PHP Warning:  mssql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 22
+[26-Apr-2016 21:18:00 UTC] PHP Warning:  mssql_query(): message: 'CONCAT' is not a recognized built-in function name. (severity 15) in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:18:00 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:18:00 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:18:00 UTC] PHP Warning:  mssql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 22
+[26-Apr-2016 21:19:59 UTC] PHP Warning:  mssql_query(): message: 'CONCAT' is not a recognized built-in function name. (severity 15) in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:19:59 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:19:59 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:19:59 UTC] PHP Warning:  mssql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 22
+[26-Apr-2016 21:20:52 UTC] PHP Warning:  mssql_query(): message: 'CONCAT' is not a recognized built-in function name. (severity 15) in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:20:52 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:20:52 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:20:52 UTC] PHP Warning:  mssql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 22
+[26-Apr-2016 21:22:35 UTC] PHP Warning:  mssql_query(): message: 'CONCAT' is not a recognized built-in function name. (severity 15) in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:22:35 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:22:35 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:22:35 UTC] PHP Warning:  mssql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 22
+[26-Apr-2016 21:22:40 UTC] PHP Warning:  mssql_query(): message: 'CONCAT' is not a recognized built-in function name. (severity 15) in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:22:40 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:22:40 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:22:40 UTC] PHP Warning:  mssql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 22
+[26-Apr-2016 21:22:44 UTC] PHP Warning:  mssql_query(): message: 'CONCAT' is not a recognized built-in function name. (severity 15) in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:22:44 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:22:44 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:22:44 UTC] PHP Warning:  mssql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 22
+[26-Apr-2016 21:24:07 UTC] PHP Warning:  mssql_query(): message: 'CONCAT' is not a recognized built-in function name. (severity 15) in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:24:07 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:24:07 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:24:07 UTC] PHP Warning:  mssql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 22
+[26-Apr-2016 21:24:16 UTC] PHP Warning:  mssql_query(): message: 'CONCAT' is not a recognized built-in function name. (severity 15) in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:24:16 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:24:16 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:24:16 UTC] PHP Warning:  mssql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 22
+[26-Apr-2016 21:24:19 UTC] PHP Warning:  mssql_query(): message: 'CONCAT' is not a recognized built-in function name. (severity 15) in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:24:19 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:24:19 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:24:19 UTC] PHP Warning:  mssql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 22
+[26-Apr-2016 21:24:47 UTC] PHP Warning:  mssql_query(): message: 'CONCAT' is not a recognized built-in function name. (severity 15) in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:24:47 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:24:47 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:24:47 UTC] PHP Warning:  mssql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 22
+[26-Apr-2016 21:24:52 UTC] PHP Warning:  mssql_query(): message: 'CONCAT' is not a recognized built-in function name. (severity 15) in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:24:52 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:24:52 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:24:52 UTC] PHP Warning:  mssql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 22
+[26-Apr-2016 21:24:55 UTC] PHP Warning:  mssql_query(): message: 'CONCAT' is not a recognized built-in function name. (severity 15) in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:24:55 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:24:55 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:24:55 UTC] PHP Warning:  mssql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 22
+[26-Apr-2016 21:25:44 UTC] PHP Warning:  mssql_query(): message: 'CONCAT' is not a recognized built-in function name. (severity 15) in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:25:44 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:25:44 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:25:44 UTC] PHP Warning:  mssql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 22
+[26-Apr-2016 21:25:49 UTC] PHP Warning:  mssql_query(): message: 'CONCAT' is not a recognized built-in function name. (severity 15) in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:25:49 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:25:49 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:25:49 UTC] PHP Warning:  mssql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 22
+[26-Apr-2016 21:25:52 UTC] PHP Warning:  mssql_query(): message: 'CONCAT' is not a recognized built-in function name. (severity 15) in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:25:52 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:25:52 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:25:52 UTC] PHP Warning:  mssql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 22
+[26-Apr-2016 21:26:18 UTC] PHP Warning:  mssql_query(): message: 'CONCAT' is not a recognized built-in function name. (severity 15) in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:26:18 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:26:18 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:26:18 UTC] PHP Warning:  mssql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 22
+[26-Apr-2016 21:26:22 UTC] PHP Warning:  mssql_query(): message: 'CONCAT' is not a recognized built-in function name. (severity 15) in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:26:22 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:26:22 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:26:22 UTC] PHP Warning:  mssql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 22
+[26-Apr-2016 21:26:24 UTC] PHP Warning:  mssql_query(): message: 'CONCAT' is not a recognized built-in function name. (severity 15) in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:26:24 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:26:24 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:26:24 UTC] PHP Warning:  mssql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 22
+[26-Apr-2016 21:34:50 UTC] PHP Warning:  mssql_query(): message: 'CONCAT' is not a recognized built-in function name. (severity 15) in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:34:50 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:34:50 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 19
+[26-Apr-2016 21:34:50 UTC] PHP Warning:  mssql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 22
+[27-Apr-2016 17:35:16 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 138.94.140.25:1433 in /hostingDataA1/idited/public_html/folium/includes/mssqlconn.php on line 15
+[27-Apr-2016 20:58:59 UTC] PHP Fatal error:  Class 'FPDF' not found in /hostingDataA1/idited/public_html/folium/Cotizacion/CrearCotizacion.php on line 30
+[28-Apr-2016 15:48:27 UTC] PHP Warning:  mssql_connect(): Unable to connect to server: 138.94.140.25:1433 in /hostingDataA1/idited/public_html/folium/includes/mssqlconn.php on line 15
+[29-Apr-2016 00:09:44 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 130
+[29-Apr-2016 00:11:03 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 130
+[29-Apr-2016 00:15:05 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 00:16:28 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 00:17:38 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 00:21:01 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 00:22:00 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 00:22:32 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 00:23:15 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 00:39:11 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 00:39:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA1/idited/public_html/folium/Cotizacion/CrearCotizacion.php on line 24
+[29-Apr-2016 00:39:31 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 00:40:45 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 00:40:59 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 00:41:46 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 00:41:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 00:43:26 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 00:43:51 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 00:44:49 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 00:52:14 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 00:52:31 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 00:54:04 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 00:54:55 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 00:58:55 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 00:59:08 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 01:00:00 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 01:00:11 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 01:02:56 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 01:03:38 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 01:03:49 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 01:05:08 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 01:05:28 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 01:07:14 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 01:07:30 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 01:07:48 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 01:08:03 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 01:08:55 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 01:09:20 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 01:10:33 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 01:10:39 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 01:10:54 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 01:13:30 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 01:13:58 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 01:18:25 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 01:18:49 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 01:18:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 01:19:03 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 01:19:13 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 01:19:25 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 01:20:02 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 01:20:08 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 01:20:17 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 01:21:08 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 01:21:10 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 01:21:19 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 01:24:11 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 01:24:24 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 01:25:58 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 01:26:05 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 01:26:13 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 01:29:30 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 01:29:35 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 01:31:26 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 01:31:44 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 01:34:43 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 01:35:23 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 01:35:32 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 01:36:22 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 01:36:30 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 01:36:44 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 01:37:20 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 01:37:27 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 14:24:23 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 14:24:25 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 14:29:56 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 14:52:12 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 14:52:26 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 14:55:57 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 14:56:08 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 14:56:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA1/idited/public_html/folium/Cotizacion/CrearCotizacion.php on line 24
+[29-Apr-2016 14:56:19 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 15:07:13 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 15:07:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA1/idited/public_html/folium/Cotizacion/CrearCotizacion.php on line 24
+[29-Apr-2016 15:07:26 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 134
+[29-Apr-2016 15:24:42 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 139
+[29-Apr-2016 15:26:50 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 139
+[29-Apr-2016 15:30:20 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 140
+[29-Apr-2016 15:30:43 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 140
+[29-Apr-2016 15:36:51 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 140
+[29-Apr-2016 15:37:02 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 140
+[29-Apr-2016 15:37:30 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 140
+[29-Apr-2016 15:38:04 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 140
+[29-Apr-2016 15:38:27 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 140
+[29-Apr-2016 15:45:12 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 169
+[29-Apr-2016 15:45:30 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 169
+[29-Apr-2016 15:46:36 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 169
+[29-Apr-2016 15:46:47 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 169
+[29-Apr-2016 18:07:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA1/idited/public_html/folium/Cotizacion/CrearCotizacion.php on line 24
+[29-Apr-2016 18:07:41 UTC] PHP Fatal error:  Unsupported operand types in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 97
+[29-Apr-2016 18:08:27 UTC] PHP Fatal error:  Unsupported operand types in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 97
+[02-May-2016 02:25:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /hostingDataA1/idited/public_html/folium/Cotizacion/CrearCotizacion.php on line 24
+[02-May-2016 02:25:34 UTC] PHP Fatal error:  Unsupported operand types in /hostingDataA1/idited/public_html/folium/Cotizacion/Cotizacion.php on line 97
+[02-May-2016 13:38:00 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/VerCotizacion.php on line 9
+[02-May-2016 13:46:58 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/VerCotizacion.php on line 9
+[02-May-2016 13:47:03 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/VerCotizacion.php on line 9
+[02-May-2016 13:47:06 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/VerCotizacion.php on line 9
+[02-May-2016 13:48:15 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/VerCotizacion.php on line 9
+[02-May-2016 13:48:19 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/VerCotizacion.php on line 9
+[02-May-2016 13:49:02 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/VerCotizacion.php on line 9
+[02-May-2016 13:49:05 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/VerCotizacion.php on line 9
+[02-May-2016 15:13:58 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/VerCotizacion.php on line 9
+[02-May-2016 15:20:10 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/VerCotizacion.php on line 9
+[02-May-2016 16:14:41 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/VerCotizacion.php on line 9
+[02-May-2016 16:15:25 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/VerCotizacion.php on line 9
+[02-May-2016 16:15:32 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/VerCotizacion.php on line 9
+[02-May-2016 16:54:09 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/VerCotizacion.php on line 9
+[02-May-2016 16:56:47 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/VerCotizacion.php on line 9
+[02-May-2016 17:04:52 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/VerCotizacion.php on line 9
+[02-May-2016 17:30:08 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/VerCotizacion.php on line 9
+[02-May-2016 17:44:05 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/VerCotizacion.php on line 9
+[02-May-2016 18:18:50 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/VerCotizacion.php on line 9
+[02-May-2016 18:20:59 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/VerCotizacion.php on line 9
+[02-May-2016 18:21:56 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/VerCotizacion.php on line 9
+[02-May-2016 18:22:34 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/VerCotizacion.php on line 9
+[02-May-2016 18:39:02 UTC] PHP Warning:  mssql_query(): message: Invalid column name 'Id_Cot1'. (severity 16) in /hostingDataA1/idited/public_html/folium/Cotizacion/VerCotizacion.php on line 30
+[02-May-2016 18:39:02 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /hostingDataA1/idited/public_html/folium/Cotizacion/VerCotizacion.php on line 30
+[02-May-2016 18:39:02 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/Cotizacion/VerCotizacion.php on line 30
+[02-May-2016 18:39:02 UTC] PHP Warning:  mssql_fetch_row() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/VerCotizacion.php on line 31
+[02-May-2016 18:39:23 UTC] PHP Warning:  mssql_query(): message: Conversion failed when converting the nvarchar value '1160-004-000' to data type int. (severity 16) in /hostingDataA1/idited/public_html/folium/Cotizacion/VerCotizacion.php on line 30
+[02-May-2016 18:39:23 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /hostingDataA1/idited/public_html/folium/Cotizacion/VerCotizacion.php on line 30
+[02-May-2016 18:39:25 UTC] PHP Warning:  mssql_query(): message: Conversion failed when converting the nvarchar value '1160-004-000' to data type int. (severity 16) in /hostingDataA1/idited/public_html/folium/Cotizacion/VerCotizacion.php on line 30
+[02-May-2016 18:39:25 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /hostingDataA1/idited/public_html/folium/Cotizacion/VerCotizacion.php on line 30
+[02-May-2016 18:39:30 UTC] PHP Warning:  mssql_query(): message: Conversion failed when converting the nvarchar value '1160-004-000' to data type int. (severity 16) in /hostingDataA1/idited/public_html/folium/Cotizacion/VerCotizacion.php on line 30
+[02-May-2016 18:39:30 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /hostingDataA1/idited/public_html/folium/Cotizacion/VerCotizacion.php on line 30
+[02-May-2016 18:42:07 UTC] PHP Warning:  mssql_query(): message: Invalid object name 'COTI'. (severity 16) in /hostingDataA1/idited/public_html/folium/Cotizacion/VerCotizacion.php on line 30
+[02-May-2016 18:42:07 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /hostingDataA1/idited/public_html/folium/Cotizacion/VerCotizacion.php on line 30
+[02-May-2016 18:42:07 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/Cotizacion/VerCotizacion.php on line 30
+[02-May-2016 18:42:07 UTC] PHP Warning:  mssql_fetch_row() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/VerCotizacion.php on line 31
+[02-May-2016 18:43:49 UTC] PHP Warning:  mssql_query(): message: Invalid object name 'COTI'. (severity 16) in /hostingDataA1/idited/public_html/folium/Cotizacion/VerCotizacion.php on line 30
+[02-May-2016 18:43:49 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /hostingDataA1/idited/public_html/folium/Cotizacion/VerCotizacion.php on line 30
+[02-May-2016 18:43:49 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/Cotizacion/VerCotizacion.php on line 30
+[02-May-2016 18:43:49 UTC] PHP Warning:  mssql_fetch_row() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/VerCotizacion.php on line 31
+[02-May-2016 18:43:52 UTC] PHP Warning:  mssql_query(): message: Invalid object name 'COTI'. (severity 16) in /hostingDataA1/idited/public_html/folium/Cotizacion/VerCotizacion.php on line 30
+[02-May-2016 18:43:52 UTC] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /hostingDataA1/idited/public_html/folium/Cotizacion/VerCotizacion.php on line 30
+[02-May-2016 18:43:52 UTC] PHP Warning:  mssql_query(): Query failed in /hostingDataA1/idited/public_html/folium/Cotizacion/VerCotizacion.php on line 30
+[02-May-2016 18:43:52 UTC] PHP Warning:  mssql_fetch_row() expects parameter 1 to be resource, boolean given in /hostingDataA1/idited/public_html/folium/Cotizacion/VerCotizacion.php on line 31
